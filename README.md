@@ -8,7 +8,9 @@ install python with all required dependencies https://github.com/davidsandberg/f
 
 for linux machines installation of requirements easy.. for windows machines I used Anaconda....some says it makes machine slow....but also install all dependencies easily
 
-step 1 after done with dependencies download facenet repository you can use git clone in any folder or directly download it then unzip it in any folder to use facenet pre-trained model you can download them...I used one of them
+step 1
+
+after done with dependencies download facenet repository you can use git clone in any folder or directly download it then unzip it in any folder to use facenet pre-trained model you can download them...I used one of them
 
 step 2
 
